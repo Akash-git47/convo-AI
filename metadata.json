@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Voice Agent",
+  "description": "An interactive voice AI agent powered by Gemini. Engage in natural, real-time conversations, with themes and full transcription support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
